@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("깃허브 테스트2\n");
+	printf("깃허브 테스트3\n");
 
 	return 0;
 }
